@@ -20,6 +20,6 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicksv03)
 
-[<img align="left" alt="Your Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.11.0/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="Your Kaggle" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.11.0/icons/kaggle.svg" />][kaggle]
 
 [kaggle]: https://www.kaggle.com/nicksv03
