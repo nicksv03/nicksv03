@@ -18,4 +18,6 @@
 
 ### 🤝 Connect with me:
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicksv03)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicksv03
+
+[![kaggle](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg)](https://www.kaggle.com/nicksv03)
