@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Survival Analysis Project with IIM Indore
 - 🌱 I’m currently learning Model Deployment
 - 💬 Ask me about all the New AI Tech
-- 📫 How to reach me: @nicksv03 on twitter
+- 📫 How to reach me: @dcbs17nikhilverma@gmail.com
 - ⚡ Fun fact: I know a lot about new tech - AI, Blockchain etc
 
 ### 📊 GitHub Stats:
