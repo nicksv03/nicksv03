@@ -1,13 +1,5 @@
 # Hi there, I'm Nikhil! 👋
 
-## 🌱 I'm a Data Geek, Learner, and Enthusiast!
-
-- 🔭 I’m currently working on Survival Analysis Project with IIM Indore
-- 🌱 I’m currently learning Model Deployment
-- 💬 Ask me about all the New AI Tech
-- 📫 Reach me: @dcbs17nikhilverma@gmail.com
-- ⚡ Fun fact: I know a lot about new tech - AI, Blockchain etc
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicksv03&label=Profile%20views&color=0e75b6&style=flat" alt="nicksv03" /> </p>
 
 
